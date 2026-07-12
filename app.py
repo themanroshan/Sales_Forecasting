@@ -108,7 +108,7 @@ st.markdown(
     <div class="hero-card">
         <h1 style="margin: 0;">📊 End-to-End Sales Forecasting & Demand Intelligence System</h1>
         <p style="margin: 0.45rem 0 0; color: #e2e8f0;">A modern forecasting workspace blending analytics, forecasting accuracy, and business clarity.</p>
-        <span class="pill">Developed by Roshan Manjal • Xylofy AI Internship Project</span>
+        <span class="pill">Developed by Roshan Manjal
     </div>
     """,
     unsafe_allow_html=True,
