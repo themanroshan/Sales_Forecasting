@@ -1,10 +1,7 @@
 streamlit
 streamlit-option-menu
 pandas
-numpy
+numpy<2.0
 matplotlib
 plotly
 scikit-learn
-statsmodels
-prophet
-xgboost
