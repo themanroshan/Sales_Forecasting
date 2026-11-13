@@ -1,7 +1,12 @@
 streamlit
-streamlit-option-menu
 pandas
 numpy<2.0
 matplotlib
 plotly
 scikit-learn
+seaborn
+statsmodels
+prophet
+xgboost
+notebook
+ipykernel
