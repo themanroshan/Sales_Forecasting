@@ -1,0 +1,5 @@
+model,status,mae,rmse,wape_pct,bias_pct,evaluated_predictions,warnings,error,selected,future_refit_error
+naive,complete,14537.507666666666,19112.177535648447,15.664479507199058,-7.168396433151853,3,,,True,
+sarima,complete,18031.404667041363,19009.18206478417,19.42922923029811,-7.2641677041253505,3,Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.,,False,
+prophet,complete,20250.79442121532,22318.41135157411,21.820669779798916,-16.78455213262265,3,,,False,
+xgboost,complete,16658.089583333334,19688.75798006753,17.94945247083351,-17.94945247083351,3,,,False,

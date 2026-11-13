@@ -1,0 +1,4 @@
+date,model,forecast_sales,lower_80,upper_80,forecast_type
+2019-01-31,naive,83030.3888,,,future
+2019-02-28,naive,83030.3888,,,future
+2019-03-31,naive,83030.3888,,,future
